@@ -1,14 +1,21 @@
-# 🎺 EarTrumpet for macOS
+# 🎺 EarTrumpet for macOS (`EarTrumpet-Mac`)
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/File-New-Project/EarTrumpet/master/EarTrumpet/Assets/AppTile.png" width="128" height="128" alt="EarTrumpet Icon">
 </p>
 
 <p align="center">
-  <strong>A native, beautiful macOS menu bar volume control utility inspired by EarTrumpet for Windows.</strong>
+  <strong>Native macOS Menu Bar volume control utility inspired by EarTrumpet for Windows.</strong>
 </p>
 
 <p align="center">
+  <a href="https://developer.apple.com/macos/"><img src="https://img.shields.io/badge/platform-macOS%2014.0%2B-blue.svg" alt="Platform: macOS 14+"></a>
+  <a href="https://swift.org"><img src="https://img.shields.io/badge/swift-6.0-orange.svg" alt="Swift 6"></a>
+  <a href="LICENSE"><img src="https://img.shields.io/badge/license-MIT-green.svg" alt="License: MIT"></a>
+</p>
+
+<p align="center">
+  <a href="#github-repository-metadata">Repository Metadata</a> •
   <a href="#features">Features</a> •
   <a href="#architecture--limitations">Architecture & Limitations</a> •
   <a href="#installation--building">Building</a> •
@@ -16,6 +23,17 @@
   <a href="#credits--acknowledgments">Credits</a> •
   <a href="#license">License</a>
 </p>
+
+---
+
+## 🏷️ GitHub Repository Metadata
+
+When publishing this repository to GitHub, use the following recommended settings:
+
+- **Repository Name**: `EarTrumpet-Mac`
+- **Description**: `Native macOS Menu Bar volume control utility inspired by EarTrumpet. Master hardware volume control across channels, instant output device switching, menu bar scroll adjustment, global hotkey (Option+Shift+V), and media app volume control.`
+- **Topics / Tags**:
+  `macos` • `swiftui` • `swift` • `coreaudio` • `eartrumpet` • `volume-control` • `menu-bar` • `audio-utility` • `macos-app`
 
 ---
 
