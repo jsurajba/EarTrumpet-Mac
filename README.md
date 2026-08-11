@@ -1,10 +1,6 @@
 # EarTrumpet for macOS (`EarTrumpet-Mac`)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/File-New-Project/EarTrumpet/master/EarTrumpet/Assets/AppTile.png" width="128" height="128" alt="EarTrumpet Icon">
-</p>
-
-<p align="center">
   <strong>Native macOS Menu Bar volume control utility inspired by EarTrumpet for Windows.</strong>
 </p>
 
