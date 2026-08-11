@@ -12,10 +12,11 @@
   <a href="https://developer.apple.com/macos/"><img src="https://img.shields.io/badge/platform-macOS%2014.0%2B-blue.svg" alt="Platform: macOS 14+"></a>
   <a href="https://swift.org"><img src="https://img.shields.io/badge/swift-6.0-orange.svg" alt="Swift 6"></a>
   <a href="LICENSE"><img src="https://img.shields.io/badge/license-MIT-green.svg" alt="License: MIT"></a>
+  <a href="https://github.com/jaredsurajballi/EarTrumpet-Mac/releases"><img src="https://img.shields.io/badge/release-v2.3.0-brightgreen.svg" alt="Release v2.3.0"></a>
 </p>
 
 <p align="center">
-  <a href="#github-repository-metadata">Repository Metadata</a> •
+  <a href="#-download--releases">Download</a> •
   <a href="#features">Features</a> •
   <a href="#architecture--limitations">Architecture & Limitations</a> •
   <a href="#installation--building">Building</a> •
@@ -26,9 +27,19 @@
 
 ---
 
+## 📦 Download & Releases
+
+Pre-built release packages are available under GitHub Releases:
+
+1. **Download Latest Release**: Download [`EarTrumpet.zip`](build/EarTrumpet.zip) from the [Releases Page](https://github.com/jaredsurajballi/EarTrumpet-Mac/releases/tag/v2.3.0).
+2. **Unzip & Launch**: Uncompress `EarTrumpet.zip` and double-click `EarTrumpet.app` (or run `./run.sh` in terminal).
+3. **Menu Bar Access**: Look for the trumpet icon near your Wi-Fi and Clock in the top menu bar, or press **`Option + Shift + V`** (`⌥ + ⇧ + V`).
+
+---
+
 ## 🏷️ GitHub Repository Metadata
 
-When publishing this repository to GitHub, use the following recommended settings:
+When publishing this repository to GitHub, use the following settings:
 
 - **Repository Name**: `EarTrumpet-Mac`
 - **Description**: `Native macOS Menu Bar volume control utility inspired by EarTrumpet. Master hardware volume control across channels, instant output device switching, menu bar scroll adjustment, global hotkey (Option+Shift+V), and media app volume control.`
